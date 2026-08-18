@@ -1,0 +1,1 @@
+a real site generated from your resume (name, role, experience timeline, achievements, skills, education), matching the "Portfolio Website" project you already list on your resume. Distinct terminal/automation-themed design, fully responsive.
